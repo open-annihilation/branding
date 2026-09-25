@@ -17,5 +17,7 @@ The official name, logos and icons of [Open Annihilation](https://github.com/ope
 | [`logos/open-annihilation-icon-600.png`](logos/open-annihilation-icon-600.png) | 600 × 600 | <img src="logos/open-annihilation-icon-600.png" width="96"> |
 
 Open Annihilation is an independent project and is not affiliated with or
-endorsed by the owners of Total Annihilation. Total Annihilation is a
-trademark of its respective owners.
+endorsed by the owners of Total Annihilation, Total Annihilation: Kingdoms or
+the Boneyards online service. Total Annihilation, Total Annihilation: Kingdoms
+and Boneyards, including their names, game data and other content, are the
+copyright and trademarks of their respective owners.
